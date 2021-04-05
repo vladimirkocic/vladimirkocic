@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @vladimirkocic
+- 👀 I’m interested in python and data analysis
+- 🌱 I’m currently learning pyton and data analtysis
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
